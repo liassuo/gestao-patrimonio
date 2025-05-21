@@ -1,7 +1,7 @@
 
 # Gestão de Patrimônio de TI
 
-Sistema de controle de equipamentos de TI para empresas. Permite o cadastro de ativos, acompanhamento de localização, status, histórico de movimentações e muito mais.
+Permite o cadastro de ativos, acompanhamento de localização, status, histórico de movimentações e muito mais.
 
 ## 🔧 Tecnologias Utilizadas
 
