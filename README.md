@@ -6,9 +6,7 @@ Permite o cadastro de ativos, acompanhamento de localização, status, históric
 ## 🔧 Tecnologias Utilizadas
 
 - Node.js
-- Express
-- MongoDB (ou outro banco, se aplicável)
-- JavaScript
+- TypeScript
 - Outras dependências listadas em `package.json`
 
 ## 🚀 Funcionalidades
